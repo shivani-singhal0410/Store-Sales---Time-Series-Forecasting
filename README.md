@@ -6,6 +6,9 @@ A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in r
 ## Analysis
 https://public.tableau.com/app/profile/shivani.singhal8462/viz/EcuadorFavoritaStores/EcuadorFavoritaStores?publish=yes
 
+![Ecuador Favorita Stores](https://user-images.githubusercontent.com/76504592/162259938-b0c3f791-cf01-4ed2-ae4d-a19ce6c39836.png)
+
+
 ## Observations from transactions data set -
 
 1. Transactions is highly correlated with sales.
