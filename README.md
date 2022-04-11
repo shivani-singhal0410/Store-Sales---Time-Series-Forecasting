@@ -8,6 +8,7 @@ https://public.tableau.com/app/profile/shivani.singhal8462/viz/EcuadorFavoritaSt
 
 ![Ecuador Favorita Stores](https://user-images.githubusercontent.com/76504592/162259938-b0c3f791-cf01-4ed2-ae4d-a19ce6c39836.png)
 
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/76504592/162763752-d7e90977-b38a-4305-9a06-cc007a36c953.png">
 
 ## Observations from transactions data set -
 
