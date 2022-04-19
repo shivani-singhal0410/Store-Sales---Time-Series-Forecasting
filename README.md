@@ -27,3 +27,6 @@ Oil prices were lowest in 2016 - the time when earthquake struck Ecuador on Apri
 
 <img width="386" alt="image" src="https://user-images.githubusercontent.com/76504592/161274061-37c0b211-bcb9-4ce4-abe3-a200ff0c3ce1.png">
 
+## Evaluation
+The evaluation metric for Store Sales forecasting learning competition:
+1𝑛∑𝑖=1𝑛(log(1+𝑦̂ 𝑖)−log(1+𝑦𝑖))2⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
